@@ -1,0 +1,732 @@
+[
+  {
+    "id": "frysk_2",
+    "num": 2,
+    "name": "Fries Museum",
+    "address": "Wilhelminaplein 92, Leeuwarden",
+    "website": "https://www.friesmuseum.nl/",
+    "lat": 53.1994527,
+    "lng": 5.7943483,
+    "game": "frysk"
+  },
+  {
+    "id": "frysk_3",
+    "num": 3,
+    "name": "Keramiekmuseum Princessehof",
+    "address": "Grote Kerkstraat 9, Leeuwarden",
+    "website": "https://www.princessehof.nl/",
+    "lat": 53.2031883,
+    "lng": 5.7951255,
+    "game": "frysk"
+  },
+  {
+    "id": "frysk_4",
+    "num": 4,
+    "name": "Museum Opsterlân",
+    "address": "Hoofdstraat 59, Gorredijk",
+    "website": "https://www.museumopsterlan.nl/",
+    "lat": 53.0019401,
+    "lng": 6.0633606,
+    "game": "frysk"
+  },
+  {
+    "id": "frysk_5",
+    "num": 5,
+    "name": "Museum Dokkum",
+    "address": "Diepswal 27, Dokkum",
+    "website": "https://www.museumdokkum.nl/",
+    "lat": 53.3254033,
+    "lng": 6.0003796,
+    "game": "frysk"
+  },
+  {
+    "id": "frysk_6",
+    "num": 6,
+    "name": "Museum ‘t Fiskershúske Moddergat",
+    "address": "Fiskerspaad 4-8a, Moddergat",
+    "website": "https://www.museummoddergat.nl/",
+    "lat": 53.4050225,
+    "lng": 6.0757116,
+    "game": "frysk"
+  },
+  {
+    "id": "frysk_7",
+    "num": 7,
+    "name": "Museum ‘t Kiekhuus",
+    "address": "Grindweg 35, Wolvega",
+    "website": "https://www.kiekhuus.nl/",
+    "lat": 52.8743781,
+    "lng": 5.9913879,
+    "game": "frysk"
+  },
+  {
+    "id": "frysk_8",
+    "num": 8,
+    "name": "Museum & Sterrenwacht Burgum",
+    "address": "Menno van Coehoornweg 9, Burgum",
+    "website": "https://www.observeum.nl/",
+    "lat": 53.2040801,
+    "lng": 6.0004589,
+    "game": "frysk"
+  },
+  {
+    "id": "frysk_9",
+    "num": 9,
+    "name": "Tresoar",
+    "address": "Boterhoek 1, Leeuwarden",
+    "website": "https://tresoar.nl/",
+    "lat": 53.2036426,
+    "lng": 5.7897202,
+    "game": "frysk"
+  },
+  {
+    "id": "frysk_10",
+    "num": 10,
+    "name": "Oudheidkamer Weststellingwerf",
+    "address": "Hoofdstraat Oost 52, Wolvega",
+    "website": "https://oudheidkamer-weststellingwerf.nl/",
+    "lat": 52.8769334,
+    "lng": 6.0051038,
+    "game": "frysk"
+  },
+  {
+    "id": "frysk_11",
+    "num": 11,
+    "name": "Nationaal Landschap Zuidwest Fryslân, Bezoekerscentrum Mar en Klif",
+    "address": "De Brink 4, Oudemirdum",
+    "website": "https://nationaallandschap.frl/",
+    "lat": 52.8491244,
+    "lng": 5.5331691,
+    "game": "frysk"
+  },
+  {
+    "id": "frysk_12",
+    "num": 12,
+    "name": "Museum Joure",
+    "address": "Museumstraat 2, Joure",
+    "website": "https://www.museumjoure.nl/",
+    "lat": 52.9676463,
+    "lng": 5.7963104,
+    "game": "frysk"
+  },
+  {
+    "id": "frysk_13",
+    "num": 13,
+    "name": "Museum Hert fan Fryslân",
+    "address": "Stationsweg 1, Grou",
+    "website": "https://museumhertfanfryslan.nl/",
+    "lat": 53.0938492,
+    "lng": 5.8344311,
+    "game": "frysk"
+  },
+  {
+    "id": "frysk_14",
+    "num": 14,
+    "name": "Museum Heerenveen",
+    "address": "Minckelersstraat 11, Heerenveen",
+    "website": "https://www.museumheerenveen.frl/",
+    "lat": 52.9599609,
+    "lng": 5.9258696,
+    "game": "frysk"
+  },
+  {
+    "id": "frysk_15",
+    "num": 15,
+    "name": "Museum de Grutterswinkel",
+    "address": "Nieuwesteeg 5, Leeuwarden",
+    "website": "https://grutterswinkel-leeuwarden.nl/",
+    "lat": 53.2016714,
+    "lng": 5.7933682,
+    "game": "frysk"
+  },
+  {
+    "id": "frysk_16",
+    "num": 16,
+    "name": "Dekema State Jelsum",
+    "address": "Dekemawei 5, Jelsum",
+    "website": "https://www.dekemastate.nl/",
+    "lat": 53.233327,
+    "lng": 5.7835794,
+    "game": "frysk"
+  },
+  {
+    "id": "frysk_17",
+    "num": 17,
+    "name": "Natuurmuseum Fryslân",
+    "address": "Schoenmakersperk 2, Leeuwarden",
+    "website": "https://natuurmuseumfryslan.nl/",
+    "lat": 53.2041464,
+    "lng": 5.7959518,
+    "game": "frysk"
+  },
+  {
+    "id": "frysk_18",
+    "num": 18,
+    "name": "Fries Scheepvaart Museum",
+    "address": "Kleinzand 16, Sneek",
+    "website": "https://www.friesscheepvaartmuseum.nl/",
+    "lat": 53.0323511,
+    "lng": 5.6632657,
+    "game": "frysk"
+  },
+  {
+    "id": "frysk_19",
+    "num": 19,
+    "name": "Fries Landbouwmuseum",
+    "address": "Felling 6, Leeuwarden",
+    "website": "https://landbouwmuseumfriesland.nl/",
+    "lat": 53.1792965,
+    "lng": 5.7895453,
+    "game": "frysk"
+  },
+  {
+    "id": "frysk_20",
+    "num": 20,
+    "name": "Museum Drachten",
+    "address": "Museumplein 2, Drachten",
+    "website": "https://museumdrachten.nl/",
+    "lat": 53.1043396,
+    "lng": 6.0975412,
+    "game": "frysk"
+  },
+  {
+    "id": "frysk_21",
+    "num": 21,
+    "name": "Museum Martena",
+    "address": "Voorstraat 35, Franeker",
+    "website": "https://www.museummartena.nl/",
+    "lat": 53.1864174,
+    "lng": 5.542203,
+    "game": "frysk"
+  },
+  {
+    "id": "frysk_22",
+    "num": 22,
+    "name": "Historisch Centrum Leeuwarden (HCL)",
+    "address": "Groeneweg 1, Leeuwarden",
+    "website": "https://historischcentrumleeuwarden.nl/",
+    "lat": 53.203938,
+    "lng": 5.7915591,
+    "game": "frysk"
+  },
+  {
+    "id": "frysk_23",
+    "num": 23,
+    "name": "De Kruidhof",
+    "address": "Schoolstraat 29B, Buitenpost",
+    "website": "https://www.dekruidhof.nl/",
+    "lat": 53.2559735,
+    "lng": 6.1393351,
+    "game": "frysk"
+  },
+  {
+    "id": "frysk_24",
+    "num": 24,
+    "name": "Openluchtmuseum De Spitkeet",
+    "address": "De Dunen 7, Harkema",
+    "website": "https://www.despitkeet.nl/",
+    "lat": 53.179322,
+    "lng": 6.1178985,
+    "game": "frysk"
+  },
+  {
+    "id": "frysk_25",
+    "num": 25,
+    "name": "Aerden Plaats te Oudebildtzijl",
+    "address": "Ds. Schuilingstraat 4-6, Oudebildtzijl",
+    "website": "https://www.aerdenplaats.nl/",
+    "lat": 53.3009172,
+    "lng": 5.7162626,
+    "game": "frysk"
+  },
+  {
+    "id": "frysk_26",
+    "num": 26,
+    "name": "Koninklijk Eise Eisinga Planetarium",
+    "address": "Eise Eisingastraat 3, Franeker",
+    "website": "https://www.eisinga-planetarium.nl/",
+    "lat": 53.1874722,
+    "lng": 5.5438074,
+    "game": "frysk"
+  },
+  {
+    "id": "frysk_27",
+    "num": 27,
+    "name": "Kennis- en Ynformaasjesintrum Terp Hegebeintum",
+    "address": "Pypkedyk 4, Hegebeintum",
+    "website": "https://www.terphegebeintum.nl/",
+    "lat": 53.3359159,
+    "lng": 5.8519609,
+    "game": "frysk"
+  },
+  {
+    "id": "frysk_28",
+    "num": 28,
+    "name": "De Utrecht",
+    "address": "Tweebaksmarkt 48, Leeuwarden",
+    "website": "https://deutrecht.frl/",
+    "lat": 53.2019999,
+    "lng": 5.8004242,
+    "game": "frysk"
+  },
+  {
+    "id": "frysk_29",
+    "num": 29,
+    "name": "Museum en Werkplaats Houtstad IJlst",
+    "address": "Sneekerpad 14, IJlst",
+    "website": "https://www.houtstad-ijlst.nl/",
+    "lat": 53.0123729,
+    "lng": 5.62626,
+    "game": "frysk"
+  },
+  {
+    "id": "frysk_30",
+    "num": 30,
+    "name": "Nationaal Modelspoor Museum",
+    "address": "Alexanderstraat 4, Sneek",
+    "website": "https://modelspoormuseum.nl/",
+    "lat": 53.022488,
+    "lng": 5.6736795,
+    "game": "frysk"
+  },
+  {
+    "id": "frysk_31",
+    "num": 31,
+    "name": "Museumhuis Van Eysinga",
+    "address": "Koningsstraat 25, Leeuwarden",
+    "website": "https://www.hendrickdekeyser.nl/museumbezoek/huis-van-eysinga-leeuwarden",
+    "lat": 53.2026368,
+    "lng": 5.8008596,
+    "game": "frysk"
+  },
+  {
+    "id": "frysk_32",
+    "num": 32,
+    "name": "Keatsmuseum",
+    "address": "Voorstraat 76, Franeker",
+    "website": "https://www.keatsmuseum.frl/",
+    "lat": 53.1869062,
+    "lng": 5.5394522,
+    "game": "frysk"
+  },
+  {
+    "id": "frysk_33",
+    "num": 33,
+    "name": "Stichting Yeb Hettinga Skoalle",
+    "address": "Camstrawei 18, Firdgum",
+    "website": "https://www.yebhettingamuseum.nl/",
+    "lat": 53.2487418,
+    "lng": 5.5614229,
+    "game": "frysk"
+  },
+  {
+    "id": "frysk_34",
+    "num": 34,
+    "name": "UNESCO Werelderfgoed Ir. D.F. Woudagemaal",
+    "address": "Gemaalweg 1a, Lemmer",
+    "website": "https://www.woudagemaal.nl/",
+    "lat": 52.8464111,
+    "lng": 5.6783492,
+    "game": "frysk"
+  },
+  {
+    "id": "frysk_35",
+    "num": 35,
+    "name": "MUSEUM BESCHERMING BEVOLKING",
+    "address": "Burstumerdyk 1, Grou",
+    "website": "https://www.museumbeschermingbevolking.nl/",
+    "lat": 53.0835527,
+    "lng": 5.8271205,
+    "game": "frysk"
+  },
+  {
+    "id": "frysk_36",
+    "num": 36,
+    "name": "Park Vijversburg",
+    "address": "Swarteweisein 2, Tytsjerk",
+    "website": "https://vijversburg.nl/",
+    "lat": 53.217436,
+    "lng": 5.905621,
+    "game": "frysk"
+  },
+  {
+    "id": "frysk_37",
+    "num": 37,
+    "name": "Openluchtmuseum De Sûkerei",
+    "address": "Trekwei 8A, Damwâld",
+    "website": "https://desukerei.nl/",
+    "lat": 53.2927753,
+    "lng": 6.0117867,
+    "game": "frysk"
+  },
+  {
+    "id": "frysk_38",
+    "num": 38,
+    "name": "Bunkermuseum Vlieland",
+    "address": "Kantonnierspad 1, Vlieland",
+    "website": "https://bunkermuseumvlieland.nl/",
+    "lat": 53.2991996,
+    "lng": 5.0399075,
+    "game": "frysk"
+  },
+  {
+    "id": "frysk_39",
+    "num": 39,
+    "name": "Landbouw- en juttersmuseum (Ameland)",
+    "address": "Hoofdweg 1, Buren",
+    "website": "https://amelandermusea.nl/locaties/landbouw-en-juttersmuseum-swartwoude/",
+    "lat": 53.4473538,
+    "lng": 5.7968952,
+    "game": "frysk"
+  },
+  {
+    "id": "frysk_40",
+    "num": 40,
+    "name": "Cultuur-historisch museum Sorgdrager (Ameland)",
+    "address": "Herenweg 1, Hollum",
+    "website": "https://amelandermusea.nl/locaties/cultuurhistorisch-museum-sorgdrager/",
+    "lat": 53.4379894,
+    "lng": 5.641203,
+    "game": "frysk"
+  },
+  {
+    "id": "frysk_41",
+    "num": 41,
+    "name": "Maritiem Centrum Abraham Fock (Ameland)",
+    "address": "Oranjeweg 18, Hollum",
+    "website": "https://amelandermusea.nl/locaties/maritiem-centrum-abraham-fock/",
+    "lat": 53.4430389,
+    "lng": 5.6368989,
+    "game": "frysk"
+  },
+  {
+    "id": "frysk_42",
+    "num": 42,
+    "name": "Bunkermuseum & Vuurtoren (Ameland)",
+    "address": "Oranjeweg 65, Hollum",
+    "website": "https://amelandermusea.nl/locaties/bunkermuseum-ameland/",
+    "lat": 53.4478147,
+    "lng": 5.6173329,
+    "game": "frysk"
+  },
+  {
+    "id": "frysk_43",
+    "num": 43,
+    "name": "Natuurcentrum (Ameland)",
+    "address": "Strandweg 38, Nes",
+    "website": "https://amelandermusea.nl/locaties/natuurcentrum/",
+    "lat": 53.44978,
+    "lng": 5.775109,
+    "game": "frysk"
+  },
+  {
+    "id": "grunn_1",
+    "num": 1,
+    "name": "Kloostermuseum Sint Bernardushof",
+    "address": "Aduard",
+    "website": "https://www.kloostermuseumaduard.nl",
+    "lat": 53.2559602,
+    "lng": 6.4601862,
+    "game": "grunn"
+  },
+  {
+    "id": "grunn_2",
+    "num": 2,
+    "name": "Museum Stad Appingedam",
+    "address": "Appingedam",
+    "website": "https://www.museumstadappingedam.nl",
+    "lat": 53.3205299,
+    "lng": 6.8576569,
+    "game": "grunn"
+  },
+  {
+    "id": "grunn_3",
+    "num": 3,
+    "name": "Het MOW",
+    "address": "Bellingwolde",
+    "website": "https://www.hetmow.nl",
+    "lat": 53.1180114,
+    "lng": 7.1659885,
+    "game": "grunn"
+  },
+  {
+    "id": "grunn_4",
+    "num": 4,
+    "name": "MuzeeAquarium",
+    "address": "Delfzijl",
+    "website": "https://www.muzeeaquarium.nl",
+    "lat": 53.3357958,
+    "lng": 6.92742,
+    "game": "grunn"
+  },
+  {
+    "id": "grunn_5",
+    "num": 5,
+    "name": "Museum Wierdenland",
+    "address": "Ezinge",
+    "website": "https://www.wierdenland.nl",
+    "lat": 53.3084237,
+    "lng": 6.440507,
+    "game": "grunn"
+  },
+  {
+    "id": "grunn_6",
+    "num": 6,
+    "name": "Universiteitsmuseum",
+    "address": "Groningen",
+    "website": "https://www.rug.nl/museum/",
+    "lat": 53.2184892,
+    "lng": 6.5633806,
+    "game": "grunn"
+  },
+  {
+    "id": "grunn_7",
+    "num": 7,
+    "name": "Museum aan de A",
+    "address": "Groningen",
+    "website": "https://www.museumaandea.nl",
+    "lat": 53.2162457,
+    "lng": 6.5601396,
+    "game": "grunn"
+  },
+  {
+    "id": "grunn_8",
+    "num": 8,
+    "name": "Tiedens, spelletjesmuseum",
+    "address": "Groningen",
+    "website": "https://www.tiedens.nl",
+    "lat": 53.2190652,
+    "lng": 6.5680077,
+    "game": "grunn"
+  },
+  {
+    "id": "grunn_9",
+    "num": 9,
+    "name": "Klooster Yesse",
+    "address": "Haren",
+    "website": "https://www.kloosteryesse.nl",
+    "lat": 53.1916222,
+    "lng": 6.60545,
+    "game": "grunn"
+  },
+  {
+    "id": "grunn_10",
+    "num": 10,
+    "name": "Klokkengieterijmuseum",
+    "address": "Heiligerlee",
+    "website": "https://www.museaheiligerlee.nl",
+    "lat": 53.1556668,
+    "lng": 7.0079134,
+    "game": "grunn"
+  },
+  {
+    "id": "grunn_11",
+    "num": 11,
+    "name": "Museum Slag bij Heiligerlee",
+    "address": "Heiligerlee",
+    "website": "https://www.museaheiligerlee.nl",
+    "lat": 53.1551973,
+    "lng": 7.0080752,
+    "game": "grunn"
+  },
+  {
+    "id": "grunn_12",
+    "num": 12,
+    "name": "Nationaal Busmuseum",
+    "address": "Hoogezand",
+    "website": "https://www.nationaalbusmuseum.nl",
+    "lat": 53.1649654,
+    "lng": 6.7292514,
+    "game": "grunn"
+  },
+  {
+    "id": "grunn_13",
+    "num": 13,
+    "name": "De Theefabriek",
+    "address": "Houwerzijl",
+    "website": "https://www.theefabriek.nl",
+    "lat": 53.3362917,
+    "lng": 6.3400587,
+    "game": "grunn"
+  },
+  {
+    "id": "grunn_14",
+    "num": 14,
+    "name": "Museum Nienoord",
+    "address": "Leek",
+    "website": "https://www.museumnienoord.nl",
+    "lat": 53.1670773,
+    "lng": 6.3951638,
+    "game": "grunn"
+  },
+  {
+    "id": "grunn_15",
+    "num": 15,
+    "name": "Museum Borg Verhildersum",
+    "address": "Leens",
+    "website": "https://www.verhildersum.nl",
+    "lat": 53.3599254,
+    "lng": 6.3775996,
+    "game": "grunn"
+  },
+  {
+    "id": "grunn_16",
+    "num": 16,
+    "name": "Abel Tasman Museum",
+    "address": "Lutjegast",
+    "website": "https://www.abeltasman.org",
+    "lat": 53.2348869,
+    "lng": 6.2570248,
+    "game": "grunn"
+  },
+  {
+    "id": "grunn_17",
+    "num": 17,
+    "name": "Bakkerijmuseum Mendels",
+    "address": "Middelstum",
+    "website": "https://www.mendels.info",
+    "lat": 53.3468634,
+    "lng": 6.6413083,
+    "game": "grunn"
+  },
+  {
+    "id": "grunn_18",
+    "num": 18,
+    "name": "Stelmakerij Wever",
+    "address": "Mussel",
+    "website": "https://www.stelmakerijwever.nl",
+    "lat": 52.9568001,
+    "lng": 7.0388205,
+    "game": "grunn"
+  },
+  {
+    "id": "grunn_19",
+    "num": 19,
+    "name": "Vliegveld Oostwold, Heritage Hangar",
+    "address": "Oostwold",
+    "website": "https://www.oostwold-airport.nl",
+    "lat": 53.2023502,
+    "lng": 6.4413862,
+    "game": "grunn"
+  },
+  {
+    "id": "grunn_20",
+    "num": 20,
+    "name": "Historische Scheepswerf Wolthuis",
+    "address": "Sappemeer",
+    "website": "https://www.historischescheepswerf.nl",
+    "lat": 53.1642791,
+    "lng": 6.7960954,
+    "game": "grunn"
+  },
+  {
+    "id": "grunn_21",
+    "num": 21,
+    "name": "SHC De Oude Stelmakerij",
+    "address": "Sellingen",
+    "website": "https://www.streekhistorischcentrum.nl",
+    "lat": 52.9459295,
+    "lng": 7.1505197,
+    "game": "grunn"
+  },
+  {
+    "id": "grunn_22",
+    "num": 22,
+    "name": "Landgoed Fraeylemaborg",
+    "address": "Slochteren",
+    "website": "https://www.fraeylemaborg.nl",
+    "lat": 53.21215,
+    "lng": 6.818903,
+    "game": "grunn"
+  },
+  {
+    "id": "grunn_23",
+    "num": 23,
+    "name": "Museumspoorlijn STAR",
+    "address": "Stadskanaal",
+    "website": "https://www.stadskanaalrail.nl",
+    "lat": 52.996397,
+    "lng": 6.9355938,
+    "game": "grunn"
+  },
+  {
+    "id": "grunn_24",
+    "num": 24,
+    "name": "Streekhistorisch Centrum",
+    "address": "Stadskanaal",
+    "website": "https://www.streekhistorischcentrum.nl",
+    "lat": 52.97186,
+    "lng": 6.97485,
+    "game": "grunn"
+  },
+  {
+    "id": "grunn_25",
+    "num": 25,
+    "name": "Museum Klooster Ter Apel",
+    "address": "Ter Apel",
+    "website": "https://www.kloosterterapel.nl",
+    "lat": 52.8761859,
+    "lng": 7.0751008,
+    "game": "grunn"
+  },
+  {
+    "id": "grunn_26",
+    "num": 26,
+    "name": "Museum Menkemaborg",
+    "address": "Uithuizen",
+    "website": "https://www.menkemaborg.nl",
+    "lat": 53.4049719,
+    "lng": 6.6838322,
+    "game": "grunn"
+  },
+  {
+    "id": "grunn_27",
+    "num": 27,
+    "name": "Veenkoloniaal Museum",
+    "address": "Veendam",
+    "website": "https://www.veenkoloniaalmuseum.nl",
+    "lat": 53.1071575,
+    "lng": 6.8759954,
+    "game": "grunn"
+  },
+  {
+    "id": "grunn_28",
+    "num": 28,
+    "name": "Openluchtmuseum het Hoogeland",
+    "address": "Warffum",
+    "website": "https://www.hethoogeland.nl",
+    "lat": 53.3921498,
+    "lng": 6.5622111,
+    "game": "grunn"
+  },
+  {
+    "id": "grunn_29",
+    "num": 29,
+    "name": "Museum Helmantel",
+    "address": "Westeremden",
+    "website": "https://www.helmantel.nl",
+    "lat": 53.345165,
+    "lng": 6.7121369,
+    "game": "grunn"
+  },
+  {
+    "id": "grunn_30",
+    "num": 30,
+    "name": "KinderBoekenHuis",
+    "address": "Winsum",
+    "website": "https://www.kinderboekenhuis.eu",
+    "lat": 53.328409,
+    "lng": 6.5163966,
+    "game": "grunn"
+  },
+  {
+    "id": "grunn_31",
+    "num": 31,
+    "name": "Visserijmuseum",
+    "address": "Zoutkamp",
+    "website": "https://www.visserijmuseum.com",
+    "lat": 53.3369118,
+    "lng": 6.2998141,
+    "game": "grunn"
+  }
+]

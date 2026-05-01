@@ -1,0 +1,46 @@
+	naam	adres	website	postcode
+1	generiek scenario	Breed verkrijgbaar		
+2	Fries Museum	Wilhelminaplein 92, Leeuwarden	https://www.friesmuseum.nl/	8911 BS
+3	Keramiekmuseum Princessehof	Grote Kerkstraat 9, Leeuwarden	https://www.princessehof.nl/	8911 DZ
+4	Museum Opsterlân	Hoofdstraat 59, Gorredijk	https://www.museumopsterlan.nl/	8401 BW
+5	Museum Dokkum	Diepswal 27, Dokkum	https://www.museumdokkum.nl/ 	9101 LA
+6	Museum ‘t Fiskershúske Moddergat	Fiskerspaad 4-8a, Moddergat	https://www.museummoddergat.nl/	9142 VN
+7	Museum ‘t Kiekhuus	Grindweg 35, Wolvega	https://www.kiekhuus.nl/	8471 EG
+8	Museum & Sterrenwacht Burgum	Menno van Coehoornweg 9, Burgum	https://www.observeum.nl/	9251 LV
+9	Tresoar	Boterhoek 1, Leeuwarden	https://tresoar.nl/	8911 DH
+10	Oudheidkamer Weststellingwerf	Hoofdstraat Oost 52, Wolvega	https://oudheidkamer-weststellingwerf.nl/	8471 JM
+11	Nationaal Landschap Zuidwest Fryslân, Bezoekerscentrum Mar en Klif	De Brink 4, Oudemirdum	https://nationaallandschap.frl/	8567 JD
+12	Museum Joure	Museumstraat 2, Joure	https://www.museumjoure.nl/	8501 CD
+13	Museum Hert fan Fryslân	Stationsweg 1, Grou	https://museumhertfanfryslan.nl/	9001 ED
+14	Museum Heerenveen	Minckelersstraat 11, Heerenveen	https://www.museumheerenveen.frl/	8442 CE
+15	Museum de Grutterswinkel	Nieuwesteeg 5, Leeuwarden	https://grutterswinkel-leeuwarden.nl/	8911 DT
+16	Dekema State Jelsum	Dekemawei 5, Jelsum	https://www.dekemastate.nl/	9057 LC
+17	Natuurmuseum Fryslân	Schoenmakersperk 2, Leeuwarden	https://natuurmuseumfryslan.nl/	8911 EM
+18	Fries Scheepvaart Museum	Kleinzand 16, Sneek	https://www.friesscheepvaartmuseum.nl/	8601 BH
+19	Fries Landbouwmuseum	Felling 6, Leeuwarden	https://landbouwmuseumfriesland.nl/	8912 CG
+20	Museum Drachten	Museumplein 2, Drachten	https://museumdrachten.nl/	9203 DD
+21	Museum Martena	Voorstraat 35, Franeker	https://www.museummartena.nl/	8801 LA
+22	Historisch Centrum Leeuwarden (HCL)	Groeneweg 1, Leeuwarden	https://historischcentrumleeuwarden.nl/	8911 EH
+23	De Kruidhof	Schoolstraat 29B, Buitenpost	https://www.dekruidhof.nl/	9285 NE
+24	Openluchtmuseum De Spitkeet	De Dunen 7, Harkema	https://www.despitkeet.nl/	9281 KT
+25	Aerden Plaats te Oudebildtzijl	Ds. Schuilingstraat 4-6, Oudebildtzijl	https://www.aerdenplaats.nl/	9078 WD
+26	Koninklijk Eise Eisinga Planetarium	Eise Eisingastraat 3, Franeker	https://www.eisinga-planetarium.nl/	8801 KE
+27	Kennis- en Ynformaasjesintrum Terp Hegebeintum	Pypkedyk 4, Hegebeintum	https://www.terphegebeintum.nl/	9173 GC
+28	De Utrecht	Tweebaksmarkt 48, Leeuwarden	https://deutrecht.frl/	8911 KX
+29	Museum en Werkplaats Houtstad IJlst	Sneekerpad 14, IJlst	https://www.houtstad-ijlst.nl/	8651 NE
+30	Nationaal Modelspoor Museum	Alexanderstraat 4, Sneek	https://modelspoormuseum.nl/	8606 VP
+31	Museumhuis Van Eysinga	Koningsstraat 25, Leeuwarden	https://www.hendrickdekeyser.nl/museumbezoek/huis-van-eysinga-leeuwarden	8911 KV
+32	Keatsmuseum	Voorstraat 76, Franeker	https://www.keatsmuseum.frl/	8801 LE
+33	Stichting Yeb Hettinga Skoalle	Camstrawei 18, Firdgum	https://www.yebhettingamuseum.nl/	8852 RH
+34	UNESCO Werelderfgoed Ir. D.F. Woudagemaal	Gemaalweg 1a, Lemmer	https://www.woudagemaal.nl/	8531 PS
+35	MUSEUM BESCHERMING BEVOLKING	Burstumerdyk 1, Grou	https://www.museumbeschermingbevolking.nl/	9001 ZC
+36	Park Vijversburg	Swarteweisein 2, Tytsjerk	https://vijversburg.nl/	9255 JB
+37	Openluchtmuseum De Sûkerei	Trekwei 8A, Damwâld	https://desukerei.nl/	9104 AB
+38	Bunkermuseum Vlieland	Kantonnierspad 1, Vlieland	https://bunkermuseumvlieland.nl/	8899 KD
+39	Landbouw- en juttersmuseum (Ameland)	Hoofdweg 1, Buren	https://amelandermusea.nl/locaties/landbouw-en-juttersmuseum-swartwoude/	9164 LA
+40	Cultuur-historisch museum Sorgdrager (Ameland)	Herenweg 1, Hollum	https://amelandermusea.nl/locaties/cultuurhistorisch-museum-sorgdrager/	9161 AM
+41	Maritiem Centrum Abraham Fock (Ameland)	Oranjeweg 18, Hollum	https://amelandermusea.nl/locaties/maritiem-centrum-abraham-fock/	9161 CC
+42	Bunkermuseum & Vuurtoren (Ameland)	Oranjeweg 65, Hollum	https://amelandermusea.nl/locaties/bunkermuseum-ameland/
+
+https://amelandermusea.nl/locaties/de-amelander-vuurtoren/	9161 CB
+43	Natuurcentrum (Ameland)	Strandweg 38, Nes	https://amelandermusea.nl/locaties/natuurcentrum/	9163 GN

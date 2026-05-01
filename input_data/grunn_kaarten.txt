@@ -1,0 +1,33 @@
+| #  | Museum                                   | Place        | Website                                 |
+|----|------------------------------------------|-------------|------------------------------------------|
+| 1  | Kloostermuseum Sint Bernardushof         | Aduard      | www.kloostermuseumaduard.nl              |
+| 2  | Museum Stad Appingedam                   | Appingedam  | www.museumstadappingedam.nl              |
+| 3  | Het MOW                                  | Bellingwolde| www.hetmow.nl                            |
+| 4  | MuzeeAquarium                            | Delfzijl    | www.muzeeaquarium.nl                     |
+| 5  | Museum Wierdenland                       | Ezinge      | www.wierdenland.nl                       |
+| 6  | Universiteitsmuseum                      | Groningen   | www.rug.nl/museum/                       |
+| 7  | Museum aan de A                          | Groningen   | www.museumaandea.nl                      |
+| 8  | Tiedens, spelletjesmuseum                | Groningen   | www.tiedens.nl                           |
+| 9  | Klooster Yesse                           | Haren       | www.kloosteryesse.nl                     |
+| 10 | Klokkengieterijmuseum                    | Heiligerlee | www.museaheiligerlee.nl                  |
+| 11 | Museum Slag bij Heiligerlee              | Heiligerlee | www.museaheiligerlee.nl                  |
+| 12 | Nationaal Busmuseum                      | Hoogezand   | www.nationaalbusmuseum.nl                |
+| 13 | De Theefabriek                           | Houwerzijl  | www.theefabriek.nl                       |
+| 14 | Museum Nienoord                          | Leek        | www.museumnienoord.nl                    |
+| 15 | Museum Borg Verhildersum                 | Leens       | www.verhildersum.nl                      |
+| 16 | Abel Tasman Museum                       | Lutjegast   | www.abeltasman.org                       |
+| 17 | Bakkerijmuseum Mendels                   | Middelstum  | www.mendels.info                         |
+| 18 | Stelmakerij Wever                        | Mussel      | www.stelmakerijwever.nl                  |
+| 19 | Vliegveld Oostwold, Heritage Hangar      | Oostwold    | www.oostwold-airport.nl                  |
+| 20 | Historische Scheepswerf Wolthuis         | Sappemeer   | www.historischescheepswerf.nl            |
+| 21 | SHC De Oude Stelmakerij                  | Sellingen   | www.streekhistorischcentrum.nl           |
+| 22 | Landgoed Fraeylemaborg                   | Slochteren  | www.fraeylemaborg.nl                     |
+| 23 | Museumspoorlijn STAR                     | Stadskanaal | www.stadskanaalrail.nl                   |
+| 24 | Streekhistorisch Centrum                 | Stadskanaal | www.streekhistorischcentrum.nl           |
+| 25 | Museum Klooster Ter Apel                 | Ter Apel    | www.kloosterterapel.nl                   |
+| 26 | Museum Menkemaborg                       | Uithuizen   | www.menkemaborg.nl                       |
+| 27 | Veenkoloniaal Museum                    | Veendam     | www.veenkoloniaalmuseum.nl               |
+| 28 | Openluchtmuseum het Hoogeland            | Warffum     | www.hethoogeland.nl                      |
+| 29 | Museum Helmantel                         | Westeremden | www.helmantel.nl                         |
+| 30 | KinderBoekenHuis                         | Winsum      | www.kinderboekenhuis.eu                  |
+| 31 | Visserijmuseum                           | Zoutkamp    | www.visserijmuseum.com                   |
